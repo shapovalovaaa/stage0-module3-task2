@@ -1,16 +1,16 @@
 package school.mjc.stage0.module3.task2;
 
-public class advancedNamingConvention {
-    private static final int adult_age = 18;
+public class AdvancedNamingConvention {
+    private static final int ADULT_AGE = 18;
 
-    private int AGE;
+    private int age;
     private int phoneNumber;
 
-    void CAllToFriend() {
+    public void callToFriend() {
         //some code
     }
 
-    void callByNumber(int Number) {
+    public void callByNumber (int number) {
         //some code
     }
 }
